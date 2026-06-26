@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-community
+langchain-ollama
+qdrant-client
+sentence-transformers
+unstructured
+pypdf
+python-docx
+psycopg2-binary
+sqlalchemy
